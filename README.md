@@ -1,4 +1,4 @@
-# Generic-Solvers---using-R
+# Generic-Solvers---using-R and RGUI
 
 GENERIC SOLVERS (QSI, POLYNOMIAL REGRESSION, SIMPLEX IMPLEMENTATION)
 
